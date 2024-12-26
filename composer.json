@@ -1,5 +1,6 @@
 {
-    "bin": ["bin/pekral_install.sh"],
+	"name": "pekral/project-php-checker-installer",
+	 "bin": ["bin/pekral_install.sh"],
     "require-dev": {
         "pekral/phpcs-rules": "^0.3.0",
         "pekral/phpstan-rules": "^0.3.0",
